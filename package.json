@@ -1,8 +1,8 @@
 {
-  "title": "Modern Business",
-  "name": "startbootstrap-modern-business",
-  "version": "4.0.0-beta",
-  "description": "A multipurpose HTML website template built with Bootstrap",
+  "title": "Frank the Dog Sitter",
+  "name": "frank-the-dog-sitter",
+  "version": "1.0",
+  "description": "A small business website for my dog sitting",
   "keywords": [
     "css",
     "sass",
@@ -11,20 +11,9 @@
     "theme",
     "template"
   ],
-  "homepage": "http://startbootstrap.com/template-overviews/modern-business",
-  "bugs": {
-    "url": "https://github.com/BlackrockDigital/startbootstrap-modern-business/issues",
-    "email": "feedback@startbootstrap.com"
-  },
+  "homepage": "http://frankthedogsitter.com",
   "license": "MIT",
-  "author": "Start Bootstrap",
-  "contributors": [
-    "David Miller (http://davidmiller.io/)"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-modern-business.git"
-  },
+  "author": "Franklyn Roth",
   "dependencies": {
     "bootstrap": "^4.0.0-beta",
     "font-awesome": "^4.7.0",
